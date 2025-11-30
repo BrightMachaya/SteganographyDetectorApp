@@ -206,3 +206,7 @@ This tool is intended for educational, research, and authorized security testing
 
 **Note:** Always ensure you have proper authorization before analyzing files that you do not own or have explicit permission to examine.
 
+**Author: Bright Machaya**
+
+If you find this project useful, please give it a star ⭐
+
