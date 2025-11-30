@@ -1,0 +1,2 @@
+
+A sophisticated Python-based steganography detection system that uses multi-agent AI orchestration to identify and extract hidden data from files. The system employs three specialized AI agents (Scanner, Analyzer, and Reporter) working together to provide comprehensive digital forensics analysis.
