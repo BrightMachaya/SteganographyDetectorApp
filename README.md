@@ -39,15 +39,6 @@ A sophisticated Python-based steganography detection system that uses multi-agen
 
 *ollama pull llama2*
 
-##### Project Structure
-
-steganography-detector/
-├── main.py                 # Main application file
-├── README.md              # This file
-├── requirements.txt       # Python dependencies
-├── License.txt       # MIT Lisense
-└── examples/             # Example files for testing
-
 #### Usage
 
 ###### Running the Application

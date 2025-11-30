@@ -1,0 +1,7 @@
+SteganographyDetectorApp/
+├── ai_components.py       # AI and CrewAI orchestration
+├── config.py              # Configuration and constants
+├── main.py           # Main GUI application
+├── report_generator.py    # PDF report generation
+├── steganography_tools.py # Core detection algorithms
+└── requirements.txt      # Dependencies
